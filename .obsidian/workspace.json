@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "73be6764b337ba52",
+        "id": "981dd15803eef6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5361e221399be0",
+            "id": "47f81679afe16220",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authentication.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "e5ed33b61ef379a2",
+            "id": "d4caa2ef6d8df1ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array access.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array access.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array access.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array access.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5ed33b61ef379a2",
+  "active": "d4caa2ef6d8df1ce",
   "lastOpenFiles": [
-    "HTML.md",
+    "Untitled.md",
     "Array access.md",
+    "HTML.md",
     "Authentication.md",
     "Untitled.canvas",
     "Yellow fade.md",
