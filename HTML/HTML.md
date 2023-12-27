@@ -1,5 +1,4 @@
 
-#php 
 ``` php
 function wfdhtml($tag, $args = array(), $content = '')
 {

@@ -1,4 +1,4 @@
-#php #auth
+
 ``` php
 // quick and dirty, uses HTTP basic auth
 // not secure from intercepted packets!

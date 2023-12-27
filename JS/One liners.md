@@ -1,4 +1,4 @@
-#js 
+
 ## Remove duplicates from array
 ``` js
 const uniqueArray = [...new Set(array)];

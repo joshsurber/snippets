@@ -1,4 +1,4 @@
-#html #boilerplate
+
 ``` html
 <!doctype html>
 <html class="no-js" lang="">

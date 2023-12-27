@@ -1,4 +1,4 @@
-#php #array
+
 ``` php
 function item($a, $b=FALSE, $c=FALSE) {
     if (is_array($a)) {

@@ -1,4 +1,4 @@
-#js
+
 ``` js
 const fetchAPI = async(URL) => {
 	const response = await fetch(URL);

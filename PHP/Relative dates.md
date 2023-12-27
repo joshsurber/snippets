@@ -1,4 +1,4 @@
-#php #dates
+
 http://www.catswhocode.com/blog/10-php-functions-and-code-snippets-to-work-with-dates
 ``` php
 function _ago($tm,$rcs = 0) {  
