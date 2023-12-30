@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43a01c841a725f66",
+        "id": "5b8f50a7ead0518e",
         "type": "tabs",
         "children": [
           {
-            "id": "2e9a327e38dc9b31",
+            "id": "f450375be32e3eff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e9a327e38dc9b31",
+  "active": "f450375be32e3eff",
   "lastOpenFiles": [
     "Liquid/Last x posts.md",
     "Linux/Enable VIA.md",
