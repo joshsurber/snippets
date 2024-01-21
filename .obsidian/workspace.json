@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Enable VIA.md",
+                "file": "Liquid/Last x posts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Enable VIA.md",
+                "file": "Liquid/Last x posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Enable VIA.md",
+                "file": "Liquid/Last x posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Enable VIA.md"
+                "file": "Liquid/Last x posts.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f450375be32e3eff",
   "lastOpenFiles": [
-    "Liquid/Last x posts.md",
     "Linux/Enable VIA.md",
+    "Bash/Check if command is installed.md",
+    "Liquid/Last x posts.md",
     "PHP/Simple auth.md",
     "PHP/Relative dates.md",
     "PHP/Array access.md",
@@ -157,7 +158,6 @@
     "JS/Arrays.md",
     "JS/Strings.md",
     "JS/Fetch API.md",
-    "Bash/Check if command is installed.md",
     "Liquid",
     "Bash",
     "Linux",
